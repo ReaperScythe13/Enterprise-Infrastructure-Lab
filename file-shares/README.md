@@ -1,4 +1,4 @@
-# Day 5 - File Shares and Drive Mapping
+# File Shares and Drive Mapping
 
 ## Objective
 Configure department file shares with group-based access and automatically map them through Group Policy.
