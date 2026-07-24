@@ -1,4 +1,4 @@
-# Day 6 - Active Directory Automation with PowerShell
+# Active Directory Automation with PowerShell
 
 ## Objective
 
