@@ -1,4 +1,4 @@
-# Day 4 - Group Policy
+# Group Policy
 
 ## Objective
 Learn how to create, link, and troubleshoot Group Policy Objects.
